@@ -1,0 +1,9 @@
+1、基类：shape 构造函数+tostring函数+color+filled 派生类：circle rectangle构造函数 get、set函数、tostring函数
+ 
+2、继承（三种继承的区别）、重定义、构造函数的调用
+
+3、多态
+
+4、纯虚函数
+
+5、静态类型转化
